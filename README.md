@@ -21,6 +21,6 @@ By :bitocean1024
 
 ## 目录
 
-* [序言](序言.md)
+* [序言](content/序言.md)
 
-* [前言](前言.md)
+* [前言](content/前言.md)
