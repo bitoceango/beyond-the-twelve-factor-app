@@ -1,5 +1,11 @@
+# <center>Beyond the twelve factors app 中文版</center>
+
+
 ### 项目主页
+
 * [beyond-twelve-factors-app 中文版](../README.md)
+* 本书是译本，从上面的项目地址可以下载到原英文版本
+* 由[bitocean1024:GitHub](https://github.com/bitocean1024) 翻译
 
 # <p align="right">序言</p>
 

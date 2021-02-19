@@ -15,7 +15,7 @@ By :bitocean1024
 
 ## 概述
 
-12 factors最早是由Heroku公司提出的，符合这12个factors构建出来的应用是符合云原生的，这些应用能够最大程度的利用云提供的能力来赋能自己的组织。beyond the twelve factors app是由Pivotal公司的Dan Nemeth 提出的，是在12 factor的基础之上做了一些变更和新增，使得原始的12 factor含义更加丰富和完善,作者拥有丰富的编程和架构经验，对云原生的理解非常深刻，值得学习
+12 factors最早是由Heroku公司提出的，符合这12个factors构建出来的应用是符合云原生的，这些应用能够最大程度的利用云提供的能力来赋能自己的组织。beyond the twelve factors app是由Pivotal公司的Dan Nemeth 提出的，是在12 factor的基础之上做了一些变更和新增，使得原始的12 factor含义更加丰富和完善,作者拥有丰富的编程和架构经验，对云原生的理解非常深刻，非常值得学习
 
 ## 译者说明
 
