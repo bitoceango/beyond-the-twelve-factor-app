@@ -10,6 +10,8 @@ By :bitocean1024
 
 [beyond twelve factors 英文原版pdf下载](https://github.com/bitocean1024/beyond-the-twelve-factor-app/blob/master/beyond-the-twelve-factor-app.pdf)
 
+[beyond twelve factors 中文版pdf下载](all.pdf)
+
 
 ## 概述
 
