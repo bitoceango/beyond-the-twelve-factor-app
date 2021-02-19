@@ -62,3 +62,11 @@ By :bitocean1024
 * [第十七章节-Summary](content/第十七章节.md)
 
 * [关于作者](content/author.md)
+
+
+## 许可协议
+* [署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+## 联系方式
+
+* [github地址](https://github.com/bitocean1024)
