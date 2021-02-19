@@ -31,8 +31,6 @@ By :bitocean1024
 
 * [第二章节-API First](content/第二章节.md)
 
-* [第二章节-API First](content/第二章节.md)
-
 * [第三章节-Dependency Management](content/第三章节.md)
 
 * [第四章节-Design,Build,Release,Run](content/第四章节.md)
